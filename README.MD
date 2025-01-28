@@ -11,6 +11,7 @@ Projeto com o objetivo de gerar um dashboard com um layout rico, leitura agradá
 ## 💻 Tecnologias utilizadas no projeto
 
 - Excel - para construção de tabelas e dashboard
+- ChatGPT - insights sobre a tabela gerada e seus dados.
 
 
 ## ✨ Features
@@ -21,13 +22,13 @@ Projeto com o objetivo de gerar um dashboard com um layout rico, leitura agradá
 ## 📚 Materiais
 
 - Excel
-- Chat GPT
+- ChatGPT
 
 ## 🛠️ Instruções de execução
 
-Utilizei as ferramenstas citadas para construção de planilhas, tabelas e dashboard e o ChatGPT para insights sobre a tabela construída.
+Utilizei as ferramentas citadas para construção de planilhas, tabelas e dashboard e o ChatGPT para insights sobre a tabela construída.
 
 ## 👨‍💻 Expert
 
 
-⌨️ Por [Ana Claudia LAcerda]
+⌨️ Por [Ana Claudia Lacerda]
