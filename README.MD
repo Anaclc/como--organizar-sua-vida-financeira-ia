@@ -1,12 +1,3 @@
--------
-
-<p align="center">
-  <img 
-    src=".github/assets/preview.png"
-    width="400"  
-  />
-</p>
-
 # Projeto Como Organizar sua Vida Financeira com Planilhas Inteligentes e IA
 
 
